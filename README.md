@@ -1,5 +1,6 @@
 # Basic Git Commands
-This repository is a summary of basic Git commands. I am collecting them in this file: <a href="https://github.com/annagabain/git/blob/main/commands.sh">
+This repository is a summary of basic Git commands. I am collecting them in this file: 
+<a href="https://github.com/annagabain/git/blob/main/commands.sh">
 
 ## Gitpod Reminders
 
