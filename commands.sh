@@ -10,6 +10,7 @@ echo "Once upon a time" >> story.txt
 git status
 
 #Allows us to commit code into a repository
-git add
+git add #file name here
 git commit -m "message" #with a message to it
 git push
+
