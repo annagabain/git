@@ -3,5 +3,13 @@
 
 git init
 
+#Creates a Story.txt file and writes "Once upon a time" in it
+echo "Once upon a time" >> story.txt
+
 #Shows the status of our local repository
 git status
+
+#Allows us to commit code into a repository
+git add
+git commit
+git push
