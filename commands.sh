@@ -20,3 +20,11 @@ git add .
 #Allows us to remove files from Git's staging area
 git rm --cached <file_name>
 
+#Shows the history of commits in a repository
+git log
+
+#Allows us to reset our repository to an earlier commit
+git reset
+
+#Allows us to specify files and folders to be excluded from the repository
+.gitignore
