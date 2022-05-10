@@ -11,5 +11,5 @@ git status
 
 #Allows us to commit code into a repository
 git add
-git commit
+git commit -m "message" #with a message to it
 git push
