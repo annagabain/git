@@ -1,4 +1,5 @@
-#Basic Git Commands
+# Basic Git Commands
+This repository is a summary of basic Git commands.
 
 ## Gitpod Reminders
 
