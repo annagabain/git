@@ -14,3 +14,5 @@ git add #file name here
 git commit -m "message" #with a message to it
 git push
 
+#Allows us to remove files from Git's staging area
+git rm --cached <file_name>
